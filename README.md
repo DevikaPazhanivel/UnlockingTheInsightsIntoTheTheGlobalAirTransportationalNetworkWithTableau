@@ -5,7 +5,6 @@ https://public.tableau.com/app/profile/m.geethanjali/viz/DASHBOARD2_169667063479
 https://public.tableau.com/app/profile/m.geethanjali/viz/DASHBOARD3_16966708336230/Dashboard3?publish=yes
 https://public.tableau.com/app/profile/m.geethanjali/viz/DASHBOARD4_16966709872160/Dashboard4?publish=yes
 https://public.tableau.com/app/profile/m.geethanjali/viz/Story_16966711249290/Story1?publish=yes
-https://github.com/DevikaPazhanivel/UnlockingTheInsightsIntoTheTheGlobalAirTransportationalNetworkWithTableau/blob/main/video-demonstration.mp4
 
 
 
