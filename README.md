@@ -6,9 +6,7 @@ https://public.tableau.com/app/profile/m.geethanjali/viz/DASHBOARD3_169667083362
 https://public.tableau.com/app/profile/m.geethanjali/viz/DASHBOARD4_16966709872160/Dashboard4?publish=yes
 https://public.tableau.com/app/profile/m.geethanjali/viz/Story_16966711249290/Story1?publish=yes
 
-https://drive.google.com/file/d/12udiscGadUdb0x4IP2eZJj9FsrVwglFS/view?usp=drivesdk
-
-
+https://photos.app.goo.gl/8hakUKGH1EYmPAiJ8
 
 
 
